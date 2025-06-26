@@ -6,6 +6,14 @@ Este repositorio contiene un proyecto de ciencia de datos que realiza un anális
 
 ---
 
+## 🌐 Demostración en Vivo
+
+Puedes probar la aplicación web directamente desde aquí:
+
+👉 [**Abrir la aplicación en Render**](https://data-analysis-app-paiq.onrender.com)
+
+---
+
 ## 📊 Descripción del Proyecto
 
 El objetivo principal es explorar el conjunto de datos `vehicles_us.csv` para comprender patrones y relaciones entre las diferentes características de los vehículos.  
